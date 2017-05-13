@@ -1,6 +1,20 @@
-/* Stylehsheet */
+/* Stylesheet */
 @import "semantic";
 
-body {
-    background: cornflowerblue;
+html, body {
+    margin:0;
+    background-color: #3b3b3b;
+}
+
+h1{
+    text-align: center;
+    padding: 1em;
+    color: floralwhite;
+}
+
+canvas{
+    background-image: url('/img/gingerKitty.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
 }

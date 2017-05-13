@@ -95,7 +95,7 @@
 		},
 	"\/img\/favicons\/android-chrome-192x192.png": {
 		"ft": 32768,
-		"iS": 39826,
+		"iS": 4894,
 		"oA": 0,
 		"oAP": "\/docs\/img\/favicons\/android-chrome-192x192.png",
 		"oF": 0,
@@ -106,7 +106,7 @@
 		},
 	"\/img\/favicons\/android-chrome-512x512.png": {
 		"ft": 32768,
-		"iS": 223203,
+		"iS": 12898,
 		"oA": 0,
 		"oAP": "\/docs\/img\/favicons\/android-chrome-512x512.png",
 		"oF": 0,
@@ -117,7 +117,7 @@
 		},
 	"\/img\/favicons\/apple-touch-icon.png": {
 		"ft": 32768,
-		"iS": 35625,
+		"iS": 4603,
 		"oA": 0,
 		"oAP": "\/docs\/img\/favicons\/apple-touch-icon.png",
 		"oF": 0,
@@ -134,7 +134,7 @@
 		},
 	"\/img\/favicons\/favicon-16x16.png": {
 		"ft": 32768,
-		"iS": 1237,
+		"iS": 1634,
 		"oA": 0,
 		"oAP": "\/docs\/img\/favicons\/favicon-16x16.png",
 		"oF": 0,
@@ -145,7 +145,7 @@
 		},
 	"\/img\/favicons\/favicon-32x32.png": {
 		"ft": 32768,
-		"iS": 2272,
+		"iS": 1849,
 		"oA": 0,
 		"oAP": "\/docs\/img\/favicons\/favicon-32x32.png",
 		"oF": 0,
@@ -170,7 +170,7 @@
 		},
 	"\/img\/favicons\/mstile-150x150.png": {
 		"ft": 32768,
-		"iS": 20590,
+		"iS": 3794,
 		"oA": 0,
 		"oAP": "\/docs\/img\/favicons\/mstile-150x150.png",
 		"oF": 0,
@@ -179,15 +179,15 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/img\/favicons\/safari-pinned-tab.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/docs\/img\/favicons\/safari-pinned-tab.svg",
+	"\/img\/gingerKitty.jpg": {
+		"ft": 16384,
+		"iS": 1574203,
+		"oA": 0,
+		"oAP": "\/docs\/img\/gingerKitty.jpg",
 		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
 		},
 	"\/img\/menu.png": {
 		"ft": 32768,
@@ -243,7 +243,7 @@
 	"displayValue": "lvl-8",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-dunnoGirl",
-	"lastBuiltDate": 515569579
+	"lastBuiltDate": 516407295
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
